@@ -9,7 +9,7 @@ This project demonstrates the steps required to fine-tune the Gemma model for ta
 ## Notebook
 
 The notebook is available on my GitHub:
-[gemma-Instruct-2b-Finetuning-on-alpaca.ipynb]()
+[gemma-Instruct-2b-Finetuning-on-alpaca.ipynb](https://github.com/MadhanMohanReddy2301/gemma-Instruct-2b-Finetuning-on-alpaca/blob/main/gemma-Instruct-Finetuning-on-alpaca.ipynb)
 
 ## Prerequisites
 
